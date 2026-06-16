@@ -1,0 +1,2 @@
+git config --global user.name Pixunto 
+git config --global user.email pixunto@gmail.com 
